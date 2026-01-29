@@ -12,14 +12,19 @@ The course is organized into chapters, covering everything from environment setu
 - **1.3 Advanced Data Structures**: Dictionaries, Sets, Tuples, and more
 - **1.4 Functions**: Advanced function usage, decorators, and lambdas
 - **1.5 Modules & Packages**: Creating and managing custom modules
-- **1.6 Object-Oriented Programming (OOP)**: Classes, Inheritance, Polymorphism
+- **1.6 Object-Oriented Programming (OOP)**: Classes, Inheritance, Polymorphism, and Advanced OOP (Magic Methods, Properties)
 - **1.7 Exceptions & Debugging**: Error handling best practices
+- **1.8 Advanced Concepts**: 
+  - **Iterators & Generators**: Lazy evaluation and custom iteration
+  - **Decorators**: Modifying functions, closures, and wrappers
+  - **Context Managers**: Resource management with `with` statements
 
 ### **Chapter 2: Data Handling & External Integrations**
 - **2.1 Structured & Unstructured Data**: Dealing with JSON, CSV, and Text files
 - **2.2 Databases**: Relational vs. Non-Relational database interactions
 - **2.3 Data from API**:
-  - REST APIs (equests library)
+  - REST APIs (
+equests library)
   - SOAP APIs (zeep library)
   - Authentication & Processing JSON/XML responses
 - **2.4 Web Scraping**: Extracting data from websites with BeautifulSoup
